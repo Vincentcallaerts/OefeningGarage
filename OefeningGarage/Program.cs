@@ -45,7 +45,7 @@ namespace OefeningGarage
                     case 0:
                         switch (SelectMenu("", "Auto Kopen", "Auto Verkopen", "Overzicht Wagens"))
                         {
-                            default:
+                            default:  
                                 break;
                         }
                         break;
